@@ -1,0 +1,6 @@
+# Ignore OS or editor files
+.DS_Store
+Thumbs.db
+*.log
+# Ignore node_modules if ever added
+node_modules/
